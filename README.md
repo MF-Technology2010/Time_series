@@ -12,7 +12,7 @@
 - Создан временной ряд ежемесячного процента успешных запусков. Для каждого месяца подсчитана доля успешных миссий (в процентах). Пропущенные месяцы (в которых не было запусков) заполнены нулями.
 
 **Ссылка на полный код в Jupyter Notebook:**  
-https://github.com/MF-Technology2010/Time_series/blob/main/Реализация.ipynb
+[https://github.com/MF-Technology2010/Time_series/blob/main/Реализация.ipynb](https://github.com/MF-Technology2010/Time_series/blob/main/Time_Series_Analysis.ipynb)
 
 ### Визуализация EDA
 
